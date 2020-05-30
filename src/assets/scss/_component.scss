@@ -1,0 +1,31 @@
+.button{
+    background-color: $color-background-default;
+    color: #5555;
+    border: 1px solid #eee;
+    padding: 10px 15px;
+    &__big{
+        padding: 15px 30px;
+    }
+    &--blue{
+        background-color: blue;
+        color: #fff;
+    }
+    &--red{
+        background-color: red;
+        color: #fff;
+    }
+}
+
+.card {
+    background-color: skyblue;
+    text-align: center;
+    &__title{
+        padding: 15px;
+    }
+    &__body{
+        padding: 10px;
+    }
+    &__footer{
+        padding: 15px;
+    }
+}
