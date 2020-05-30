@@ -9,7 +9,7 @@ Using Sass and Gulp
 Here's a quick set-up guide:
         
 #Clone Git repo
-Instaall by running "npm i" on the command line5
+Instaall by running "npm i" on the command line
 Run "gulp" on the command line.
 
 #Project info
